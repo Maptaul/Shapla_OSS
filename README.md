@@ -5,6 +5,7 @@ Welcome to the Shapla OSS project! This repository contains the source code for 
 ## Live Demo
 
 Check out the live version of our application [here](https://shaplaoss.vercel.app/).
+or click here : https://shaplaoss.vercel.app/
 
 ## Table of Contents
 
