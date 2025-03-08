@@ -125,4 +125,46 @@ export const locations = [
       "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d59039.192087847274!2d91.81223058039818!3d22.35553538936198!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30ad272f4fa7e57b%3A0xc2d82a716189b34!2s17%20No.%20Ward%20Councilor%20Office!5e0!3m2!1sen!2sbd!4v1741252893898!5m2!1sen!2sbd",
     image: "/images/image22.jpg",
   },
+  {
+    id: 19,
+    name: "East Bakalia",
+    mapLink:
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3690.0571802198956!2d91.85887696978615!3d22.351469700000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30ad2700094ffd69%3A0x75c5d8bd766407a8!2s18no.%20Ward%20East%20Bakalia!5e0!3m2!1sen!2sbd!4v1741416382739!5m2!1sen!2sbd",
+    image: "/images/image23.jpg",
+  },
+  {
+    id: 20,
+    name: "South Bakalia",
+    mapLink:
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6265.754561686123!2d91.8471794!3d22.3437961!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30ad27003136fced%3A0x9431d0f390f254ba!2sCounselor%20office%20of%20South%20Bakolia%20Chittagong!5e1!3m2!1sen!2sbd!4v1741418259493!5m2!1sen!2sbd",
+    image: "/images/image22.jpg",
+  },
+  {
+    id: 21,
+    name: "Dewan Bazar",
+    mapLink:
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6265.746052579586!2d91.83847798071658!3d22.34398540636067!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30ad275cea391be5%3A0x4a67fb20443fb5f6!2s20%20No.%20Dewan%20Bazaar%20Ward%2C%20Chittagong!5e1!3m2!1sen!2sbd!4v1741417799867!5m2!1sen!2sbd",
+    image: "/images/image22.jpg",
+  },
+  {
+    id: 22,
+    name: "Jamal Khan",
+    mapLink:
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3690.0571802198956!2d91.85887696978615!3d22.351469700000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30ad2700094ffd69%3A0x75c5d8bd766407a8!2s18no.%20Ward%20East%20Bakalia!5e0!3m2!1sen!2sbd!4v1741416382739!5m2!1sen!2sbd",
+    image: "/images/image23.jpg",
+  },
+  {
+    id: 23,
+    name: "Enayet Bazar",
+    mapLink:
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6265.8826900667855!2d91.82348767529373!3d22.340945379657516!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30acd9889359176f%3A0x1ae601d79b35e395!2zRW5heWV0IEJhemFyIFdhcmQgT2ZmaWNlICgg4KaP4Kao4Ka-4Kef4KeH4KakIOCmrOCmvuCmnOCmvuCmsCDgppPgp5_gpr7gprDgp43gpqEg4KaV4Ka-4KaJ4Kao4KeN4Ka44Ka_4Kay4KawIOCmj-CmsCDgppXgpr7gprDgp43gpq_gpr7gprLgp58p!5e1!3m2!1sen!2sbd!4v1741418650827!5m2!1sen!2sbd",
+    image: "/images/image22.jpg",
+  },
+  {
+    id: 25,
+    name: "North Pathantooly",
+    mapLink:
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d50119.97284224378!2d91.81218971933784!3d22.36065277142749!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30acd8b6bf3257ff%3A0xcc1c49a2ba65aa5d!2s28%20No.%20Pathantuly%20Ward%20Councillor%20Office!5e1!3m2!1sen!2sbd!4v1741420331126!5m2!1sen!2sbd",
+    image: "/images/image24.jpg",
+  },
 ];
