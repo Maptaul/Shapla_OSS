@@ -3,7 +3,7 @@ export const locations = [
     id: 1,
     name: "Main office",
     mapLink:
-      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6265.066534345322!2d91.82227137701204!3d22.359098079644365!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xfd81adf9379f853%3A0x103b36d58fd7ab8d!2sJIONEX-%20Technology%20Expertise!5e1!3m2!1sen!2sbd!4v1741240707273!5m2!1sen!2sbd",
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6265.0665343453165!2d91.82227137529425!3d22.35909807964445!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xfd81adf9379f853%3A0x103b36d58fd7ab8d!2sJIONEX-%20Technology%20Expertise!5e1!3m2!1sen!2sbd!4v1741422743251!5m2!1sen!2sbd",
     image: "/images/jionex_logo.png",
   },
   {
@@ -161,10 +161,38 @@ export const locations = [
     image: "/images/image22.jpg",
   },
   {
-    id: 25,
+    id: 24,
     name: "North Pathantooly",
     mapLink:
       "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d50119.97284224378!2d91.81218971933784!3d22.36065277142749!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30acd8b6bf3257ff%3A0xcc1c49a2ba65aa5d!2s28%20No.%20Pathantuly%20Ward%20Councillor%20Office!5e1!3m2!1sen!2sbd!4v1741420331126!5m2!1sen!2sbd",
+    image: "/images/image24.jpg",
+  },
+  {
+    id: 25,
+    name: "North Agrabad",
+    mapLink:
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d50129.36874855672!2d91.7829835706193!3d22.334527445044515!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30acd8cfc53faf1f%3A0x3b0fbbd9ed6f87cd!2z4Keo4Keq4Kao4KaCIOCmieCmpOCnjeCmpOCmsCDgpobgppfgp43gprDgpr7gpqzgpr7gpqYg4KaT4Kef4Ka-4Kaw4KeN4KahLCDgppXgpr7gpongpqjgp43gprjgpr_gprLgprAg4KaV4Ka-4Kaw4KeN4Kav4Ka-4Kay4Kef!5e1!3m2!1sen!2sbd!4v1741421019023!5m2!1sen!2sbd",
+    image: "/images/image22.jpg",
+  },
+  {
+    id: 26,
+    name: "Rampur",
+    mapLink:
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d50128.69065883926!2d91.77150307062291!3d22.336413844784417!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30acd9eb9579815f%3A0x39cf7aed93a5c719!2s25%20No.%20Ward%20Office!5e1!3m2!1sen!2sbd!4v1741421302023!5m2!1sen!2sbd",
+    image: "/images/image24.jpg",
+  },
+  {
+    id: 27,
+    name: "North Halishahar",
+    mapLink:
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d200479.91950107706!2d91.7503877185263!3d22.360633226923927!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30acdfbf538277ab%3A0xc7fdc13bfc825fe2!2z4Keo4KesIOCmqOCmgiDgppPgp5_gpr7gprDgp43gpqEg4KaV4Ka-4KaJ4Kao4KeN4Ka44Ka_4Kay4KawIOCmleCmvuCmsOCnjeCmr-CmvuCmsuCnnywg4Kaa4Kaf4KeN4Kaf4KaX4KeN4Kaw4Ka-4KauIOCmuOCmv-Cmn-CmvyDgppXgprDgp43gpqrgp4vgprDgp4fgprbgpqg!5e1!3m2!1sen!2sbd!4v1741421474465!5m2!1sen!2sbd",
+    image: "/images/image22.jpg",
+  },
+  {
+    id: 28,
+    name: "South Agrabad",
+    mapLink:
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12532.756511552125!2d91.79800044248016!3d22.329916318660974!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30acd8d39af7bf61%3A0x23899fb92b4d3937!2s27%20No.Ward%20Councillor%20Office!5e1!3m2!1sen!2sbd!4v1741422226403!5m2!1sen!2sbd",
     image: "/images/image24.jpg",
   },
 ];
