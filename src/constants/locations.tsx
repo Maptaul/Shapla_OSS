@@ -230,4 +230,25 @@ export const locations = [
       "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3690.3984375183695!2d91.83342127701171!3d22.338579529659196!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30ad27585ceb7313%3A0xa6a32a4118ac5448!2sJ%20C%20Guha%20Rd%2C%20Chittagong%204000!5e0!3m2!1sen!2sbd!4v1741503763893!5m2!1sen!2sbd",
     image: "/images/image23.jpg",
   },
+  {
+    id: 34,
+    name: "Firingee Bazar",
+    mapLink:
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3690.6401069668177!2d91.83420617529337!3d22.329446779665638!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30ad275155425ddd%3A0xe92c0b1146c6f5a4!2z4Kep4Kep4Kao4KaCIOCmq-Cmv-CmsOCmv-CmmeCnjeCml-CngCDgpqzgpr7gppzgpr7gprAg4KaT4Kef4Ka-4Kaw4KeN4KahIOCmleCmvuCmieCmqOCnjeCmuOCmv-CmsuCmsCDgppXgpr7gprDgp43gpq_gpr7gprLgp58!5e0!3m2!1sen!2sbd!4v1741505037635!5m2!1sen!2sbd",
+    image: "/images/image24.jpg",
+  },
+  {
+    id: 35,
+    name: "Patharghata",
+    mapLink:
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14762.38949628101!2d91.8315271025222!3d22.33106192462864!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30ad2751d1b86d91%3A0x9048bbe533616b7c!2s34%20no.%20Ward%20Comissionar%20Office!5e0!3m2!1sen!2sbd!4v1741505179280!5m2!1sen!2sbd",
+    image: "/images/image22.jpg",
+  },
+  {
+    id: 36,
+    name: "Boxirhat",
+    mapLink:
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3690.4308732840755!2d91.84396077529357!3d22.33735397965995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30ad2760eca80e81%3A0x46d777fc221d784c!2s35%20No.%20Boxirhat%20Ward%20Councillor%20Office!5e0!3m2!1sen!2sbd!4v1741505892032!5m2!1sen!2sbd",
+    image: "/images/image24.jpg",
+  },
 ];
