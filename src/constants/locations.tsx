@@ -216,4 +216,18 @@ export const locations = [
       "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14762.96645027602!2d91.8267091!3d22.3256098!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30acd9670d7e3485%3A0x523346bf8154aa3f!2sWomen%20Word%20Councilor%20Office%20(Word%2022%2C%2030%2C%2031%20and%20reserved%2008)!5e0!3m2!1sen!2sbd!4v1741499799926!5m2!1sen!2sbd",
     image: "/images/image23.jpg",
   },
+  {
+    id: 32,
+    name: "Alkaran",
+    mapLink:
+      "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7381.028779897145!2d91.8318787!3d22.3341981!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30ad27f31f964f41%3A0xace9ce7d28ce05ea!2sCouncilor%20Office%2C%2031%20Alkoron%20Ward%2C%20Chittagong%20City%20Corporation!5e0!3m2!1sen!2sbd!4v1741500116642!5m2!1sen!2sbd",
+    image: "/images/image22.jpg",
+  },
+  {
+    id: 33,
+    name: "Andarkilla",
+    mapLink:
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3690.3984375183695!2d91.83342127701171!3d22.338579529659196!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30ad27585ceb7313%3A0xa6a32a4118ac5448!2sJ%20C%20Guha%20Rd%2C%20Chittagong%204000!5e0!3m2!1sen!2sbd!4v1741503763893!5m2!1sen!2sbd",
+    image: "/images/image23.jpg",
+  },
 ];
