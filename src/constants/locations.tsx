@@ -265,4 +265,33 @@ export const locations = [
       "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4395.631042790821!2d91.78214535735658!3d22.31827411231272!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30acdecd8a130f3d%3A0xcd79f2a667ba7806!2s37%20No.%20North-Middle%20Halishahar%20Ward%2C%20Chittagong!5e0!3m2!1sen!2sbd!4v1741507057367!5m2!1sen!2sbd",
     image: "/images/image23.jpg",
   },
+  {
+    id: 39,
+    name: "South Middle Halishahar",
+    mapLink:
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5242.733669627807!2d91.78858393381984!3d22.310281438983495!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30acdeb910fac121%3A0x14fb4b3b6e23fe67!2s38%20No.%20South%20Middle%20Halishahar%20Ward%2C%20Chittagong!5e0!3m2!1sen!2sbd!4v1741507267884!5m2!1sen!2sbd",
+    image: "/images/image24.jpg",
+  },
+
+  {
+    id: 40,
+    name: "South Halishahar",
+    mapLink:
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d118074.06301903924!2d91.7503877185263!3d22.360633226923927!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30acdf280448d433%3A0x47d2cf0b1561e24a!2sCity%20Digital%20Center%20Ward%2039!5e0!3m2!1sen!2sbd!4v1741507450154!5m2!1sen!2sbd",
+    image: "/images/image24.jpg",
+  },
+  {
+    id: 41,
+    name: "North Patenga",
+    mapLink:
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d59077.60341363207!2d91.75219452971153!3d22.264719856073448!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30acdf9b66349643%3A0x7b35bf718672db26!2z4Keq4KemIOCmqOCmgiDgpongpqTgp43gpqTgprAg4Kaq4Kak4KeH4KaZ4KeN4KaX4Ka-IOCmleCmvuCmieCmqOCnjeCmuOCmv-CmsuCmvuCmsCDgppXgpr7gprDgp43gpq_gpr7gprLgp5_gpaQ!5e0!3m2!1sen!2sbd!4v1741507521836!5m2!1sen!2sbd",
+    image: "/images/image23.jpg",
+  },
+  {
+    id: 42,
+    name: "South Patenga",
+    mapLink:
+      "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d667.244019425512!2d91.8041612108847!3d22.25022290396074!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1z4Keq4Ken4Kao4KaCIOCmpuCmleCnjeCmt-Cmv-CmoyDgpqrgpqTgp4fgppngp43gppfgpr4g4KaT4Kef4Ka-4Kaw4KeN4KahIG9mZmljZQ!5e0!3m2!1sen!2sbd!4v1741507685230!5m2!1sen!2sbd",
+    image: "/images/image24.jpg",
+  },
 ];
