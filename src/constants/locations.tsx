@@ -251,4 +251,18 @@ export const locations = [
       "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3690.4308732840755!2d91.84396077529357!3d22.33735397965995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30ad2760eca80e81%3A0x46d777fc221d784c!2s35%20No.%20Boxirhat%20Ward%20Councillor%20Office!5e0!3m2!1sen!2sbd!4v1741505892032!5m2!1sen!2sbd",
     image: "/images/image24.jpg",
   },
+  {
+    id: 37,
+    name: "Gosaildanga",
+    mapLink:
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d59037.02488200188!2d91.79158957452506!3d22.360648862711546!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30acdf314a0678a5%3A0x311931d9cbbff85c!2sChittagong%20City%20Corporation%2036%20No.%20Ward%20Councillor%20Office!5e0!3m2!1sen!2sbd!4v1741506073779!5m2!1sen!2sbd",
+    image: "/images/image22.jpg",
+  },
+  {
+    id: 38,
+    name: "North Middle Halishahar",
+    mapLink:
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4395.631042790821!2d91.78214535735658!3d22.31827411231272!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30acdecd8a130f3d%3A0xcd79f2a667ba7806!2s37%20No.%20North-Middle%20Halishahar%20Ward%2C%20Chittagong!5e0!3m2!1sen!2sbd!4v1741507057367!5m2!1sen!2sbd",
+    image: "/images/image23.jpg",
+  },
 ];
