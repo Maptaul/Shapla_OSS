@@ -3,14 +3,14 @@ export const locations = [
     id: 1,
     name: "Main office",
     mapLink:
-      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6265.0665343453165!2d91.82227137529425!3d22.35909807964445!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xfd81adf9379f853%3A0x103b36d58fd7ab8d!2sJIONEX-%20Technology%20Expertise!5e1!3m2!1sen!2sbd!4v1741422743251!5m2!1sen!2sbd",
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3689.8551362531143!2d91.82484629999999!3d22.3590981!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xfd81adf9379f853%3A0x103b36d58fd7ab8d!2sJIONEX-%20Technology%20Expertise!5e0!3m2!1sen!2sbd!4v1741508227253!5m2!1sen!2sbd",
     image: "/images/jionex_logo.png",
   },
   {
     id: 2,
     name: "South Pahartali",
     mapLink:
-      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d200358.12313497884!2d91.81882570192512!3d22.44509878219324!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30acd70ce5ccf1bb%3A0x50d5ff17cad3b687!2z4KenIOCmqOCmgiDgpqbgppXgp43gprfgpr_gpqgg4Kaq4Ka-4Ka54Ka-4Kec4Kak4Kay4KeAIOCmk-Cmr-CmvOCmvuCmsOCnjeCmoSDgppXgpr7gprDgp43gpq_gpr7gprLgpq_gprw!5e1!3m2!1sen!2sbd!4v1741242011928!5m2!1sen!2sbd",
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d59042.00586054194!2d91.74266103125!3d22.34889470000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30acd8ea14ef2e1f%3A0x8009c2ba0876c332!2sCounselor%20Office!5e0!3m2!1sen!2sbd!4v1741508294197!5m2!1sen!2sbd",
     image: "/images/image14.jpg",
   },
   {
