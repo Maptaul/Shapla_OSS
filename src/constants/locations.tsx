@@ -195,4 +195,25 @@ export const locations = [
       "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12532.756511552125!2d91.79800044248016!3d22.329916318660974!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30acd8d39af7bf61%3A0x23899fb92b4d3937!2s27%20No.Ward%20Councillor%20Office!5e1!3m2!1sen!2sbd!4v1741422226403!5m2!1sen!2sbd",
     image: "/images/image24.jpg",
   },
+  {
+    id: 29,
+    name: "Pathantooly",
+    mapLink:
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3690.5993675841232!2d91.8137217752934!3d22.330986579664557!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30acd8b6bf3257ff%3A0xcc1c49a2ba65aa5d!2s28%20No.%20Pathantuly%20Ward%20Councillor%20Office!5e0!3m2!1sen!2sbd!4v1741499160854!5m2!1sen!2sbd",
+    image: "/images/image22.jpg",
+  },
+  {
+    id: 30,
+    name: "West Madarbari",
+    mapLink:
+      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14762.79071287023!2d91.81117765252046!3d22.327270624672217!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30acd8ae31d21d33%3A0x538cf0da3498b1c2!2s29%20No.%20Ward%20Councillor%20Office!5e0!3m2!1sen!2sbd!4v1741499521322!5m2!1sen!2sbd",
+    image: "/images/image24.jpg",
+  },
+  {
+    id: 31,
+    name: "East Madarbari",
+    mapLink:
+      "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14762.96645027602!2d91.8267091!3d22.3256098!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30acd9670d7e3485%3A0x523346bf8154aa3f!2sWomen%20Word%20Councilor%20Office%20(Word%2022%2C%2030%2C%2031%20and%20reserved%2008)!5e0!3m2!1sen!2sbd!4v1741499799926!5m2!1sen!2sbd",
+    image: "/images/image23.jpg",
+  },
 ];
