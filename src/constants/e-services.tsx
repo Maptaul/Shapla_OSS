@@ -1,48 +1,46 @@
 import {
-  FaChartLine,
   FaFileAlt,
-  FaGraduationCap,
-  FaHospital,
-  FaParking,
-  FaTicketAlt,
-  FaUser,
   FaCreditCard,
   FaAmbulance,
   FaCommentDots,
 } from "react-icons/fa";
+import { FaIdCard } from "react-icons/fa6";
+import { IoIosPeople } from "react-icons/io";
+import { MdHowToVote } from "react-icons/md";
+import { TbWorldCheck } from "react-icons/tb";
 
 export const services = [
   {
-    title: "license",
+    title: "Citizenship Certificate",
     icon: <FaFileAlt className="icon" />,
   },
   {
-    title: "holdings & tax",
-    icon: <FaChartLine className="icon" />,
+    title: "Nationality Certificate",
+    icon: <TbWorldCheck className="icon" />,
   },
   {
-    title: "permits",
-    icon: <FaFileAlt className="icon" />,
+    title: "Permanent Resident Certificate",
+    icon: <IoIosPeople className="icon" />,
   },
   {
-    title: "education",
-    icon: <FaGraduationCap className="icon" />,
+    title: "Voter Information Verification Attestation",
+    icon: <MdHowToVote className="icon" />,
   },
   {
-    title: "health",
-    icon: <FaHospital className="icon" />,
+    title: "New Voter Attestation",
+    icon: <FaIdCard className="icon" />,
   },
   {
-    title: "parking",
-    icon: <FaParking className="icon" />,
+    title: "Voter Area Transfer Attestation",
+    icon: <FaIdCard className="icon" />,
   },
   {
-    title: "tourism",
-    icon: <FaTicketAlt className="icon" />,
+    title: "National ID Information Correction Attestation",
+    icon: <FaIdCard className="icon" />,
   },
   {
-    title: "citizen services",
-    icon: <FaUser className="icon" />,
+    title: "Voter List Inclusion Attestation",
+    icon: <FaIdCard className="icon" />,
   },
   {
     title: "pay fees",
