@@ -3,18 +3,31 @@ import {
   FaCreditCard,
   FaMoneyCheckAlt,
   FaHouseDamage,
+  FaBirthdayCake,
 } from "react-icons/fa";
 import {
   FaAccessibleIcon,
   FaBinoculars,
   FaFileInvoiceDollar,
   FaIdCard,
+  FaSunPlantWilt,
   FaWarehouse,
 } from "react-icons/fa6";
-import { GiBigDiamondRing, GiCharacter, GiTribalMask } from "react-icons/gi";
+import {
+  GiBigDiamondRing,
+  GiCharacter,
+  GiDeathNote,
+  GiTribalMask,
+} from "react-icons/gi";
 import { GoLaw } from "react-icons/go";
 import { IoIosPeople } from "react-icons/io";
-import { MdChildCare, MdFamilyRestroom, MdHowToVote } from "react-icons/md";
+import {
+  MdChildCare,
+  MdFamilyRestroom,
+  MdHowToVote,
+  MdLiving,
+  MdMiscellaneousServices,
+} from "react-icons/md";
 import { RiUserSearchLine } from "react-icons/ri";
 import { SiSuckless } from "react-icons/si";
 import {
@@ -178,7 +191,27 @@ export const services = [
     icon: <FaAccessibleIcon className="icon" />,
   },
   {
-    title: "Disability Certificate ",
-    icon: <FaAccessibleIcon className="icon" />,
+    title: " Community Certificate ",
+    icon: <MdFamilyRestroom className="icon" />,
+  },
+  {
+    title: " Agricultural Attestation ",
+    icon: <FaSunPlantWilt className="icon" />,
+  },
+  {
+    title: " Birth Certificate ",
+    icon: <FaBirthdayCake className="icon" />,
+  },
+  {
+    title: "Death Certificate ",
+    icon: <GiDeathNote className="icon" />,
+  },
+  {
+    title: " Living Person Attestation ",
+    icon: <MdLiving className="icon" />,
+  },
+  {
+    title: "Miscellaneous Certificate ",
+    icon: <MdMiscellaneousServices className="icon" />,
   },
 ];
