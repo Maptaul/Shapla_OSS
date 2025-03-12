@@ -1,12 +1,28 @@
-import { FaFileAlt, FaCreditCard, FaMoneyCheckAlt } from "react-icons/fa";
-import { FaFileInvoiceDollar, FaIdCard, FaWarehouse } from "react-icons/fa6";
-import { GiBigDiamondRing } from "react-icons/gi";
+import {
+  FaFileAlt,
+  FaCreditCard,
+  FaMoneyCheckAlt,
+  FaHouseDamage,
+} from "react-icons/fa";
+import {
+  FaAccessibleIcon,
+  FaBinoculars,
+  FaFileInvoiceDollar,
+  FaIdCard,
+  FaWarehouse,
+} from "react-icons/fa6";
+import { GiBigDiamondRing, GiCharacter, GiTribalMask } from "react-icons/gi";
 import { GoLaw } from "react-icons/go";
 import { IoIosPeople } from "react-icons/io";
 import { MdChildCare, MdFamilyRestroom, MdHowToVote } from "react-icons/md";
 import { RiUserSearchLine } from "react-icons/ri";
 import { SiSuckless } from "react-icons/si";
-import { TbBrandGuardian, TbLicense, TbWorldCheck } from "react-icons/tb";
+import {
+  TbBrandGuardian,
+  TbLicense,
+  TbTax,
+  TbWorldCheck,
+} from "react-icons/tb";
 
 export const services = [
   {
@@ -123,6 +139,46 @@ export const services = [
   },
   {
     title: " No Objection Certificate (NOC) ",
+    icon: <FaBinoculars className="icon" />,
+  },
+  {
+    title: "Infrastructure Construction Permission Certificate ",
+    icon: <FaHouseDamage className="icon" />,
+  },
+  {
+    title: " Character Certificate ",
+    icon: <GiCharacter className="icon" />,
+  },
+  {
+    title: "Same Person Attestation",
+    icon: <GiCharacter className="icon" />,
+  },
+  {
+    title: " Notary Services ",
     icon: <GoLaw className="icon" />,
+  },
+  {
+    title: "Tax Identification Number (TIN) ",
+    icon: <TbTax className="icon" />,
+  },
+  {
+    title: "Business Identification Number (BIN) ",
+    icon: <TbTax className="icon" />,
+  },
+  {
+    title: "Freedom Fighter Attestation ",
+    icon: <GiCharacter className="icon" />,
+  },
+  {
+    title: " Indigenous Certificate ",
+    icon: <GiTribalMask className="icon" />,
+  },
+  {
+    title: "Disability Certificate ",
+    icon: <FaAccessibleIcon className="icon" />,
+  },
+  {
+    title: "Disability Certificate ",
+    icon: <FaAccessibleIcon className="icon" />,
   },
 ];
