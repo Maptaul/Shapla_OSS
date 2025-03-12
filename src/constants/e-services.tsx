@@ -9,9 +9,13 @@ import {
   FaAccessibleIcon,
   FaBinoculars,
   FaFileInvoiceDollar,
+  FaGasPump,
   FaIdCard,
+  FaInternetExplorer,
+  FaPassport,
   FaSunPlantWilt,
   FaWarehouse,
+  FaWater,
 } from "react-icons/fa6";
 import {
   GiBigDiamondRing,
@@ -21,6 +25,7 @@ import {
 } from "react-icons/gi";
 import { GoLaw } from "react-icons/go";
 import { IoIosPeople } from "react-icons/io";
+import { IoDocumentAttach } from "react-icons/io5";
 import {
   MdChildCare,
   MdFamilyRestroom,
@@ -33,6 +38,7 @@ import { SiSuckless } from "react-icons/si";
 import {
   TbBrandGuardian,
   TbLicense,
+  TbSunElectricity,
   TbTax,
   TbWorldCheck,
 } from "react-icons/tb";
@@ -213,5 +219,29 @@ export const services = [
   {
     title: "Miscellaneous Certificate ",
     icon: <MdMiscellaneousServices className="icon" />,
+  },
+  {
+    title: "Passport & Document Check ",
+    icon: <FaPassport className="icon" />,
+  },
+  {
+    title: "All kind of Correction Certificates ",
+    icon: <IoDocumentAttach className="icon" />,
+  },
+  {
+    title: "Electricity Bill Payment ",
+    icon: <TbSunElectricity className="icon" />,
+  },
+  {
+    title: " Water Bill Payment ",
+    icon: <FaWater className="icon" />,
+  },
+  {
+    title: "Gas Bill Payment ",
+    icon: <FaGasPump className="icon" />,
+  },
+  {
+    title: " Internet and Mobile Bill Payment ",
+    icon: <FaInternetExplorer className="icon" />,
   },
 ];
