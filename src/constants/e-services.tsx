@@ -1,10 +1,12 @@
-import { FaFileAlt, FaCreditCard } from "react-icons/fa";
-import { FaIdCard } from "react-icons/fa6";
+import { FaFileAlt, FaCreditCard, FaMoneyCheckAlt } from "react-icons/fa";
+import { FaFileInvoiceDollar, FaIdCard, FaWarehouse } from "react-icons/fa6";
 import { GiBigDiamondRing } from "react-icons/gi";
+import { GoLaw } from "react-icons/go";
 import { IoIosPeople } from "react-icons/io";
-import { MdFamilyRestroom, MdHowToVote } from "react-icons/md";
+import { MdChildCare, MdFamilyRestroom, MdHowToVote } from "react-icons/md";
+import { RiUserSearchLine } from "react-icons/ri";
 import { SiSuckless } from "react-icons/si";
-import { TbBrandGuardian, TbWorldCheck } from "react-icons/tb";
+import { TbBrandGuardian, TbLicense, TbWorldCheck } from "react-icons/tb";
 
 export const services = [
   {
@@ -86,5 +88,41 @@ export const services = [
   {
     title: "Widow Attestation ",
     icon: <GiBigDiamondRing className="icon" />,
+  },
+  {
+    title: "Childless Attestation",
+    icon: <MdChildCare className="icon" />,
+  },
+  {
+    title: "Annual Income Certificate",
+    icon: <FaMoneyCheckAlt className="icon" />,
+  },
+  {
+    title: "Monthly Income Certificate ",
+    icon: <FaFileInvoiceDollar className="icon" />,
+  },
+  {
+    title: " Financial Insolvency Certificate ",
+    icon: <FaFileInvoiceDollar className="icon" />,
+  },
+  {
+    title: "Unemployment Certificate ",
+    icon: <RiUserSearchLine className="icon" />,
+  },
+  {
+    title: " Trade License  ",
+    icon: <TbLicense className="icon" />,
+  },
+  {
+    title: "Premises License",
+    icon: <FaWarehouse className="icon" />,
+  },
+  {
+    title: "Power of Attorney Attestation ",
+    icon: <GoLaw className="icon" />,
+  },
+  {
+    title: " No Objection Certificate (NOC) ",
+    icon: <GoLaw className="icon" />,
   },
 ];
