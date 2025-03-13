@@ -3,6 +3,7 @@ import styles from "./header.module.scss";
 import { Container } from "react-bootstrap";
 import { GiHamburgerMenu } from "react-icons/gi";
 import { useState } from "react";
+import Image from "next/image";
 export default function Header() {
   const [show, setShow] = useState(false);
 
@@ -16,9 +17,14 @@ export default function Header() {
           <Container className={styles.container}>
             <div className={styles.nav}>
               <div className={styles.logo}>
-                <h2>
-                  <Link href="/">Shapla O.S.S</Link>
-                </h2>
+                <Link href="/">
+                  <Image
+                    src="/images/logo.jpeg"
+                    alt="Shapla O.S.S"
+                    width={100}
+                    height={100}
+                  />
+                </Link>
               </div>
               <ul className={`${show ? styles.show : ""} ${styles.menu}`}>
                 <li className={styles.navItem}>
