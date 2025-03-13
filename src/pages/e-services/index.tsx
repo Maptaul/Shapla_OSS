@@ -27,7 +27,7 @@ export default function Home() {
         </section>
         <section className={styles.services}>
           <Container>
-            <h2>e-Services</h2>
+            {/* <h2>e-Services</h2> */}
             <div className={styles.wrapper}>
               {services.map((service, index) => (
                 <div key={index} className={styles.service}>

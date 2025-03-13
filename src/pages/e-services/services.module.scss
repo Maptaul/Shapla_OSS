@@ -25,6 +25,7 @@
 
     h2 {
         margin-bottom: 30px;
+        text-align: center;
     }
 
     .wrapper {
@@ -43,6 +44,8 @@
             overflow: hidden;
             padding: 20px;
             border-radius: 20px;
+            justify-content: center;
+            // align-items: center;
             text-align: center;
             cursor: pointer;
 

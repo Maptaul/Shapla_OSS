@@ -18,8 +18,8 @@ export default function Footer() {
               <span>Phone</span>: +880-XXX-XXXXXXX
             </li>
             <li>
-              <span>Address</span>: Smart City Office, Chattogram City
-              Corporation, Chattogram, Bangladesh.
+              <span>Address</span>: IPL City Centre, 4th Floor, 162 O.R. Nizam
+              Rd, Chattogram-4317, Bangladesh.
             </li>
           </ul>
         </Container>
