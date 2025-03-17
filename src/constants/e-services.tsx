@@ -47,6 +47,17 @@ export const services = [
   {
     title: "Citizenship Certificate",
     icon: <FaFileAlt className="icon" />,
+    requirements: [
+      "Applicant's Photo (Passport size, 2 copies)",
+      "NID or Birth Certificate (Photocopy)",
+      "Father/Mother’s NID (Photocopy)",
+      "Father/Mother’s Citizenship Certificate (if available)",
+      "Permanent Address Proof (Utility Bill/Rent Agreement, if asked)",
+      "Character Certificate (from Ward Councillor/Chairman)",
+      "Recommendation Letter (from Ward Councillor/Chairman)",
+      "Application Form (Filled)",
+      "Fee Payment Slip (if applicable)",
+    ],
   },
   {
     title: "Nationality Certificate",
